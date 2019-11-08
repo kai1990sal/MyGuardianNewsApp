@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconDipSize">
+        <ignore path="src/main/res/drawable-mdpi/news_logo_dark.png" />
+        <ignore path="src/main/res/drawable-xhdpi/g_logo.png" />
+        <ignore path="src/main/res/drawable-xhdpi/menu_business.png" />
+        <ignore path="src/main/res/drawable-xhdpi/menu_environment.png" />
+        <ignore path="src/main/res/drawable-xhdpi/menu_technology.png" />
+        <ignore path="src/main/res/drawable-xhdpi/menu_weather.png" />
+        <ignore path="src/main/res/drawable-xxhdpi/menu_world.png" />
+    </issue>
+    <issue id="IconDuplicates">
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_business.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_education.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_environment.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_fashion.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_film.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_home.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_money.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_politics.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_sport.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_technology.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_weather.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/menu_world.png" />
+    </issue>
+    <issue id="IconExtension">
+        <ignore path="src/main/res/drawable-xhdpi/menu_environment.png" />
+    </issue>
+</lint>
